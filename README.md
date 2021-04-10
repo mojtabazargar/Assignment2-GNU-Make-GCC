@@ -1,4 +1,4 @@
-# Coursera-ESE-Assignment2-GNU-Make-and-GCC
+# Assignment2-GNU-Make-and-GCC
 
  Exploring Make GCC tools
  Author:mojtaba zargar
